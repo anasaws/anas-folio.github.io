@@ -1,0 +1,182 @@
+{
+    "general":
+    {
+        "title": "Anas K - DevOps Engineer",
+        "description": "French developer living in Paris. Currently working at Immersive, former Uzik, also teaching classes at HETIC and doing freelance work."
+    },
+    "who":
+    {
+        "description": "Indian De Engineer living in India. Currently working at <a href='http://xminds.com/'>Xminds Infotech</a>, former Softgeninfotech, also teaching classes at Akshya and doing freelance work.",
+        "skills"     :
+        [
+            { "slug": "html5",     "title": "HTML5" },
+            { "slug": "YAML",      "title": "YAML" },
+            { "slug": "BASH",      "title": "BASH" },
+            { "slug": "Terraform", "title": "Terraform" },
+            { "slug": "Ansible",   "title": "Ansible" },
+            { "slug": "sass",      "title": "Sass" },
+            { "slug": "Docker",    "title": "Docker" },
+            { "slug": "Kubernetes","title": "Kubernetes" },
+            { "slug": "Jenkins",   "title": "Jenkins" },
+            { "slug": "git",       "title": "git" },
+            { "slug": "Shell",     "title": "Shell" },
+            { "slug": "php",       "title": "MySQL" },
+            { "slug": "Postgresql","title": "Postgresql" },
+            { "slug": "RDS",       "title": "RDS" },
+            { "slug": "git",       "title": "Git" }
+        ],
+        "social":
+        [
+            { "slug": "github",   "title": "Github",   "link": "https://github.com/anasaws/" },
+            { "slug": "twitter",  "title": "Twitter",  "link": "https://twitter.com/anuanas" },
+            { "slug": "linkedin", "title": "LinkedIn", "link": "https://www.linkedin.com/in/anas-kadambalath-97664819a/" },
+            { "slug": "mail",     "title": "Mail",     "link": "mailto:anasofficial8@gmail.com" }
+        ]
+    },
+    "works":
+    {
+        "items":
+        [
+            {
+                "title": "Akshaya",
+                "infos":
+                [
+                    {
+                        "label": "Role",
+                        "value": "SystemAdmin"
+                    },
+                    {
+                        "label": "At",
+                        "value": "Xminds infotech"
+                    },
+                    {
+                        "label": "Distinctions",
+                        "value":
+                        [
+                            {
+                                
+                            }
+                        ]
+                    }
+                ],
+                "link"    : "https://www.decathlon-united.com",
+                "logo"    : "projects/decathlon-united/logo.png",
+                "pictures":
+                [
+                    "projects/decathlon-united/",
+                    "projects/decathlon-united/",
+                    "projects/decathlon-united/",
+                    "projects/decathlon-united/",
+                    "projects/decathlon-united/"
+                ]
+            },
+            {
+                "title": "Softgeninfotech",
+                "infos":
+                [
+                    {
+                        "label": "Role",
+                        "value": "DevOps Intern"
+                    },
+                    {
+                        "label": "At",
+                        "value": "Xminds infotech"
+                    },
+                    {
+                        "label": "Distinctions",
+                        "value":
+                        [
+                            {
+                                "title": "Awwwards SOTM",
+                                "link" : "https://www.xminds.com/case-study-immersive-garden-havas-win-sotm-nov-with-the-new-mobile-workforce.html"
+                            },
+                            {
+                                "title": "Awwwards developer site of the year",
+                                "link" : "https://www.xminds.com/interview-immersive-garden-win-studio-and-developer-site-of-the-year.html"
+                            },
+                            {
+                                "title": "CSS design awards SOTD",
+                                "link" : "https://www.cssdesignawards.com/sites/the-new-mobile-workforce/31897/"
+                            },
+                            {
+                                "title": "FWA of the Month",
+                                "link" : "https://thefwa.com/cases/the-new-mobile-workforce-p2"
+                            }
+                        ]
+                    }
+                ],
+                "link"    : "https://www.thenewmobileworkforce.com/",
+                "logo"    : "projects/red-bull-racing-citrix/logo.png",
+                "pictures":
+                [
+                    
+                ]
+            },
+            {
+                "title": "Reflet Communication",
+                "infos":
+                [
+                    {
+                    
+                        
+                    }
+                ],
+                "link"    : "https://www.refletcommunication.com",
+                "logo"    : "projects/reflet-communication/logo.png",
+                "pictures":
+                [
+                    "projects/reflet-communication/0.jpg",
+                    "projects/reflet-communication/1.jpg",
+                    "projects/reflet-communication/2.jpg",
+                    "projects/reflet-communication/3.jpg",
+                    "projects/reflet-communication/4.jpg"
+                ]
+            },
+            {
+                "title": "Loaded",
+                "infos":
+                [
+                    {
+                        "label": "Role",
+                        "value": "DevOps Engineer"
+                    },
+                    {
+                        "label": "As",
+                        "value": "Freelancer"
+                    }
+                ],
+                "link"    : "https://loaded.gg",
+                "logo"    : "projects/loaded/logo.png",
+                "pictures":
+                [
+                    "projects/loaded/0.jpg",
+                    "projects/loaded/2.jpg",
+                    "projects/loaded/1.jpg",
+                    "projects/loaded/3.jpg"
+                ]
+            },
+            {
+                "title": "",
+                "infos":
+                [
+                    {
+                        
+                            }
+                        ]
+                    }
+                ],
+                "link"    : "https://xminds.com",
+                "logo"    : "projects/xminds/logo.png",
+                "pictures":
+                [
+                    "projects/gleec/",
+                    "projects/gleec/",
+                    "projects/gleec/",
+                    "projects/gleec/",
+                    "projects/gleec/"
+                ]
+            },
+            
+                
+            
+               
